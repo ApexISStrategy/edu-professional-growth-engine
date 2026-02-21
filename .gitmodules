@@ -1,0 +1,3 @@
+[submodule "edu-exploring-with-ai"]
+	path = edu-exploring-with-ai
+	url = https://github.com/ApexISStrategy/edu-exploring-with-ai.git
