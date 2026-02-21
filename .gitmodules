@@ -1,9 +1,9 @@
-[submodule "edu-exploring-with-ai"]
-	path = edu-exploring-with-ai
-	url = https://github.com/ApexISStrategy/edu-exploring-with-ai.git
 [submodule "edu-02-python-cli-engine"]
 	path = edu-02-python-cli-engine
 	url = https://github.com/ApexISStrategy/edu-02-python-cli-engine.git
 [submodule "edu-03-python-gui-dashboard"]
 	path = edu-03-python-gui-dashboard
 	url = https://github.com/ApexISStrategy/edu-03-python-gui-dashboard.git
+[submodule "edu-01-exploring-with-ai"]
+	path = edu-01-exploring-with-ai
+	url = https://github.com/ApexISStrategy/edu-01-exploring-with-ai.git
