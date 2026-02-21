@@ -8,9 +8,9 @@ In a world of rapidly evolving technology, the most valuable asset an IT profess
 This project is built as a **Monorepo**, demonstrating a real-world Systems Integration approach. We don't just write code; we build an ecosystem where data flows across multiple layers of the technology stack.
 
 ### The Curriculum Roadmap:
-1.  **[edu-exploring-with-ai](./edu-exploring-with-ai)**: The Research Hub. Mastering prompt engineering to define the "Brain" of the engine.
-2.  **edu-02-python-cli-engine** (Upcoming): The "Input Layer." A terminal-based daily journaling tool.
-3.  **edu-03-python-gui-dashboard** (Upcoming): The "Interactive Console." A desktop interface for managing professional assets, allowing users to visually enter, edit, and analyze their growth data.
+1.  **[edu-01-exploring-with-ai](./edu-01-exploring-with-ai)**: The Research Hub. Mastering prompt engineering to define the "Brain" of the engine.
+2.  **[edu-02-python-cli-engine](./edu-02-python-cli-engine)**: The "Input Layer." A terminal-based daily journaling tool.
+3.  **[edu-03-python-gui-dashboard](./edu-03-python-gui-dashboard)**: The "Interactive Console." A desktop interface for managing professional assets, allowing users to visually enter, edit, and analyze their growth data.
 4.  **edu-04-relational-persistence** (Upcoming): The "Storage Layer." Connecting Python to PostgreSQL and MariaDB.
 5.  **edu-05-node-rest-api** (Upcoming): The "Communication Layer." Decoupling data via a Node.js REST API.
 6.  **edu-06-nextjs-mobile-portal** (Upcoming): The "Presentation Layer." A cross-platform mobile web dashboard.
